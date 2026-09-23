@@ -72,8 +72,8 @@ A largo plazo, me interesa especializarme en arquitecturas de aplicaciones web y
 
 ## 📬 Contacto
 
-- 📧 Email: [mario.lopez.dev@gmail.com](mailto:mario.lopez.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mario-lopez-daw](https://www.linkedin.com/in/mario-lopez-daw)
+- 📧 Email: mariolopezvarela11@gmail.com
+- 💼 LinkedIn: 
 - 🐙 GitHub: [github.com/MarioLopezVarela](https://github.com/MarioLopezVarela/MarioLopezVarela)
 
 ---
